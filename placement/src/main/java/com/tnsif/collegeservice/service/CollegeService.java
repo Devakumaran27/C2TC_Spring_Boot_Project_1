@@ -1,12 +1,12 @@
-package com.tnsif.placement.service;
+package com.tnsif.collegeservice.service;
 
 import java.util.List;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.tnsif.placement.entity.CollegeEntity;
-import com.tnsif.placement.repository.CollegeRepository;
+import com.tnsif.collegeservice.entity.CollegeEntity;
+import com.tnsif.collegeservice.repository.CollegeRepository;
 
 
 @Service

@@ -1,4 +1,4 @@
-package com.tnsif.placement.controller;
+package com.tnsif.collegeservice.controller;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -6,8 +6,8 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import com.tnsif.placement.entity.CollegeEntity;
-import com.tnsif.placement.service.CollegeService;
+import com.tnsif.collegeservice.entity.CollegeEntity;
+import com.tnsif.collegeservice.service.CollegeService;
 
 
 @RestController

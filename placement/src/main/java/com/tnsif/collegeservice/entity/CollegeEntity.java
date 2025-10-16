@@ -1,4 +1,4 @@
-package com.tnsif.placement.entity;
+package com.tnsif.collegeservice.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
